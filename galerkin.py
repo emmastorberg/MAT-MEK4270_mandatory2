@@ -254,7 +254,6 @@ class Cosines(Trigonometric):
 
 # Create classes to hold the boundary function
 
-
 class Dirichlet:
 
     def __init__(self, bc, domain, reference_domain):
